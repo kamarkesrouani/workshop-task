@@ -1,0 +1,12 @@
+#include stdlib
+#include stdio.h
+
+int main(){
+
+printf("Github project");
+printf("Github project 1");
+printf("Github project 2");
+printf("Github project 3");
+
+return 0;
+}
